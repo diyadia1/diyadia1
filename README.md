@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Diya 👋
 
-<!--
-**diyadia1/diyadia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Health Informatics | AI/ML & Software Development
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student specializing in Health Informatics, interested in building technology at the intersection of **software, artificial intelligence, and healthcare**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+- **Languages:** Python, Java, C++, JavaScript, HTML, CSS
+- **Web:** React, Next.js, Node.js
+- **AI/ML:** Machine Learning, Deep Learning, Computer Vision
+- **Healthcare Tech:** Health Informatics, Medical Imaging, Healthcare Data
+- **Tools:** Git, GitHub, SQL
+
+### 🚀 Featured Projects
+
+🔐 **MedVault**  
+Decentralized medical record platform exploring blockchain, Ethereum, Solidity and IPFS.
+
+🩺 **Better Health**  
+Responsive health-services website focused on medical emergency awareness and preparedness.
+
+🫁 **Lung Disease Classification**  
+Machine-learning project exploring chest X-ray image classification using CNNs.
+
+🧠 **Brain Tumor Prediction**  
+Deep-learning project exploring medical image classification for brain tumor prediction.
+
+### 🎯 Currently Interested In
+
+- AI/ML Engineering
+- Software Engineering
+- Health-Tech
+- Medical AI
+- Computer Vision
+
+### 📫 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/diya-valsan-a70a0736b) · [Email](mailto:diyavalsankvn@gmail.com)
